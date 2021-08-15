@@ -1,0 +1,15 @@
+# Motif
+#include "Motif.tmpl"
+# LOCAL_LIBRARIES = XmClientLibs -lXmu -lXpm -lm
+# CCOPTIONS= -DHAS_XPM -DMOTIF
+
+# Athena
+LOCAL_LIBRARIES = XawClientLibs -lXmu -lXpm -lm
+CCOPTIONS= -DHAS_XPM
+
+SRCS = xlupe.c
+OBJS = xlupe.o
+
+# CDEBUGFLAGS = -O2 -Wall
+
+ComplexProgramTargetNoMan(xlupe)

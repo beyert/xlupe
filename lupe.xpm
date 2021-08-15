@@ -1,0 +1,43 @@
+/* XPM */
+static char *lupe_xpm[] = {
+/* width height num_colors chars_per_pixel */
+"    55    30        6            1",
+/* colors */
+". c #999999",
+"# c #000000",
+"a c #ffffff",
+"b c #3366aa",
+"c c #777777",
+"d c #aaaaaa",
+/* pixels */
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadc",
+"addddddddddddddddcb#b#bccdddddddddddddddddddddddddddd#c",
+"addddddddddddddcbaaaaaaab#bdddddddddddddddddddddddddd#c",
+"adddddddddddddbaabbbbbbcaab#ddddddddddddddddddddddddd#c",
+"addddddddddddcab#dcdcdcdcdab#dddddddddddddddddddddddd#c",
+"ad.d.dcccccccab#caacccccccca.bccccccccccccccccc..d.d.#c",
+"a.ddd.cddddda#cdaac.c.c.aacda#.................dd.ddd#c",
+"ad.d.ddd.d.cab.aac.c.c.caa.ca.b.d.......c.c.c.cd.d.d.#c",
+"a.d...cddddabccacdc.c.c.c.c.da#............c...dd.d..#c",
+"ad.d.dcd.d.a#c.a.c.c.c.c.c.cdab.....c...c.c.c.cd.d.d.#c",
+"a.....cddddab.c.c.c.c.c.c.c..a#..............c.d.....#c",
+"ad.d.dcd.d.a#c.c.c.c.c.c.c.cdab.....c.c.c.c.c.cd.d.d.#c",
+"a.....c.dddabdc.c.c.c.c.c.c.da#........c...c.c.d.....#c",
+"ad...dcd.d..a#.c.c.c.c.c.c.cab..c...c.c.c.c.c.cd.d...#c",
+"a.....cdd.d.abc.c.c.c.c.c.c.a#.........c.c.c.ccd.....#c",
+"a.....cd.d.d.abc.c.c.c.c.c.a#...c.c.c.c.c.c.c.cd.....#c",
+"a.....c.ddd.d.acc.c.c.c.c.ab.......c...c.c.ccc.d.....#c",
+"a...c.cd.d.d.d.aac.c.cccaa#ccbc.c.c.c.c.c.c.c.cdc...c#c",
+"a.....c.d.d.d.d..aaaaaaabc#ccabc.....c.c.ccccccd.....#c",
+"a.c.c.cd.d.d.d.d.cbbbbb#b..bccabc.c.c.c.c.c.c.cdc.c.c#c",
+"ac.c..c...d.........d......#bccabc.c.c.ccc.ccccd.c.c.#c",
+"a.c.c.cd.d.d.d...d......c...#bccabc.c.c.c.c.c.cdc.c.c#c",
+"accc.cc......................#bccabc.ccccccccccd.ccc.#c",
+"a.c.c.cddddddddddddddddddddddd#bccabcdddddddddddc.c.c#c",
+"acccccccccccccccccccccccccccccc#bccabcccccccccccccccc#c",
+"accccccccccccccccccccccccccccccc#bccabccccccccccccccc#c",
+"acccccccccccccccccccccccccccccccc#bccabcccccccccccccc#c",
+"accccccccccccccccccccccccccccccccc#bccabccccccccccccc#c",
+"d#####################################################c",
+"ccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+};

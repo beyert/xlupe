@@ -1,0 +1,22 @@
+
+This is a little program for zooming parts of your desktop, very 
+similar to xmag. The difference is, that it continously updates
+it's contents.
+There are two modes available. In mode one it follows the mouse
+and displays everything whats under it. This is the default mode.
+In the other mode it displays a static area. You can enter this
+mode by clicking into the display window and dragging the appearing
+rectangle to the desired region. You stop/return to mode one by
+pressing the right mouse button.
+If you have a display with different visuals and want to zoom
+an area in a window not laying in the default visual, you will
+find the "jump" option very handy. Just press the button and
+click on the appropriate window.
+Please feel free to change the Imakefile if you want a Motif-
+or Lesstif version instead of the default Xaw one.
+
+xlupe URL: http://core.de/~coto/xtu/
+
+Thomas Runge
+runge@core.de
+
